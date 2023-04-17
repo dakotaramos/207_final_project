@@ -8,3 +8,5 @@ The slides for the final project presentation can be found in the root github di
 The data used for this project can be found in data/raw/Occupancy_Estimation.csv
 
 The data for the hyperparameter tuning of each model can be found in data/post_processing/
+
+Notebooks in the preliminary_notebooks/ directory are our individual efforts before combinging into one notebook.
