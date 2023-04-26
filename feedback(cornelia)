@@ -1,0 +1,9 @@
+Team: Room occupancy
+•	Title, Authors: yes
+•	(15%) Motivation: absolutely loved the motivation (incl. visuals). Team talked with a firefighter to highlight the value of their model. Identified existing work (big win). Included project plan (this is always very useful to have). 
+•	(15%) Data: UC Irvine’s repo. Identified size of data, listed out features in the data. Clearly identify target (multiclass classification). Explained where sensors were located in a room (nice). Presented a correlation matrix (nice). Presented feature distributions (nice). Identified class imbalance (unoccupied rooms, nice) – downsampling technique applied. 
+•	(15%) Approach:  Baseline, (Boosted) Decision Trees, Logistic, DNN. Used the F1 score throughout, confusion matrix, and ROC AUC by class (big win). Very clear presentation of results. Used SHAP (big win).
+•	(30%) Experiments: yes, hyperparameter tuning 
+•	(10%) Conclusions: which sensors and what location is most useful (nice). DNN performs best
+•	(15%) Code submission: yes, code is well organized and commented.
+•	Contributions: yes
